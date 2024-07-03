@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SectorMapping.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="conn_str_main" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=10.3.5.75;database=markets;uid=sa;pwd=Zeebiztv@123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,9 @@
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\bin\Debug\SectorMapping.exe.config
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\obj\Debug\SectorMapping.csprojResolveAssemblyReference.cache
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\obj\Debug\SectorMapping.Properties.Resources.resources
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\obj\Debug\SectorMapping.csproj.GenerateResource.Cache
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\bin\Debug\SectorMapping.exe
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\bin\Debug\SectorMapping.pdb
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\obj\Debug\SectorMapping.Form1.resources
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\obj\Debug\SectorMapping.exe
+D:\Projects\SQLProjects\Win\SectorMapping\SectorMapping\obj\Debug\SectorMapping.pdb
